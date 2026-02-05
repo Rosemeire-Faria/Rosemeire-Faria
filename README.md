@@ -1,4 +1,4 @@
-<img src="NOME_EXATO_DA_IMAGEM.jpg" width="100%">
+<img src="ChatGPT Image 5 de fev. de 2026, 10_16_49.png" width="100%">
 
 # Olá, eu sou a Rosemeire Faria 👋
 
