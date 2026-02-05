@@ -1,3 +1,5 @@
+<img src="banner-rose.jpg" width="100%">
+
 # Olá, eu sou a Rosemeire Faria 👋
 
 🚀 **Estudante de Front-end no SENAI**
@@ -12,3 +14,4 @@
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-faria-254658331/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faria.rosy@gmail.com)
+
