@@ -1,5 +1,4 @@
 <img src="banner-rose.jpg" width="100%">
-
 # Olá, eu sou a Rosemeire Faria 👋
 
 🚀 **Estudante de Front-end no SENAI**
