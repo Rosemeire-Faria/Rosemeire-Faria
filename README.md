@@ -2,8 +2,8 @@
 
 # Olá, eu sou a Rosemeire Faria 👋
 
-🚀 **Estudante de Front-end no SENAI**
-"Transicionando para tecnologia | +20 anos de experiência em processos e melhoria contínua no setor de seguros."
+🚀 **Estudante no SENAI e UNICSUL Gestão em TI**
+"Transicionando para tecnologia | +15 anos de experiência área operacional / sustentação no setor de seguros."
 
 ### 🛠 Tecnologias em Estudo
 - 💻 HTML5 | CSS3 | JavaScript
