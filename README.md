@@ -3,7 +3,7 @@
 # Olá, eu sou a Rosemeire Faria 👋
 
 🚀 **Estudante no SENAI e UNICSUL Gestão em TI**
-"Transicionando para tecnologia | +15 anos de experiência área operacional / sustentação no setor de seguros."
+"Busco atuar como Analista de Negócios e Processos | Estudante de Gestão em TI | Foco em Análise de Sistemas, Metodologias Ágeis, HTML, CSS, JS e Python."
 
 🚀 **Objetivo - Interesse - área | vaga**
 "Analista de Negócios e Processos"
