@@ -5,7 +5,7 @@
 🚀 **Estudante no SENAI e UNICSUL Gestão em TI**
 "Transicionando para tecnologia | +15 anos de experiência área operacional / sustentação no setor de seguros."
 
-🚀 **Interesses área | vaga**
+🚀 **Interesse - área | vaga**
 "Analista de Negócios e Processos"
 
 ### 🛠 Tecnologias em Estudo
