@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Rosemeire Faria 👋
 
-🚀 **Busco atuar como Analista de Negócios e Processos | Estudante de Gestão em TI | Foco em Análise de Sistemas, Metodologias Ágeis, HTML, CSS, JS e Python**
+**Busco atuar como Analista de Negócios e Processos | Estudante de Gestão em TI | Foco em Análise de Sistemas, Metodologias Ágeis, HTML, CSS, JS e Python**
 
 ### 🛠 Tecnologias em Estudo
 - 💻 HTML5 | CSS3 | JavaScript
