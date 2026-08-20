@@ -5,6 +5,9 @@
 🚀 **Estudante no SENAI e UNICSUL Gestão em TI**
 "Transicionando para tecnologia | +15 anos de experiência área operacional / sustentação no setor de seguros."
 
+**Interesses área | vaga**
+"Analista de Negócios e Processos"
+
 ### 🛠 Tecnologias em Estudo
 - 💻 HTML5 | CSS3 | JavaScript
 
