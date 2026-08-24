@@ -2,15 +2,31 @@
 
 # Olá, eu sou a Rosemeire Faria 👋
 
-**Estudante de Gestão em TI | Foco em Análise de Sistemas, Metodologias Ágeis, HTML, CSS, JS e Python**
+## Sobre Mim
+Graduanda em Gestão em Tecnologia da Informação com sólida experiência profissional no setor corporativo e de seguros. Atuei em gestão de demandas operacionais, análise de processos e otimização de SLA de atendimento. Unindo minha bagagem de negócios ao desenvolvimento tecnológico, busco criar soluções eficientes, focadas em qualidade e usabilidade.
 
-### 🛠 Tecnologias em Estudo
-- 💻 HTML5 | CSS3 | JavaScript
+---
 
-### 🐍 Minha Cobrinha de Contribuições
-![snake gif](https://raw.githubusercontent.com/Rosemeire-Faria/Rosemeire-Faria/output/github-contribution-grid-snake.svg)
+## 🎯 Foco de Atuação e Prioridades
+- **Atuação Principal (Pronta para atuar):** Mapeamento de Processos, Análise de Negócios e Requisitos, Operações de TI e Desenvolvimento Web Front-End (HTML/CSS/JS).
+- **Em Evolução Contínua:** Linguagem Python, Análise de Dados (SQL) e Arquitetura de Sistemas.
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-faria-254658331/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faria.rosy@gmail.com)
+---
 
+## 🛠 Tecnologias e Ferramentas (Stack)
+- **Front-End & Web:** HTML5, CSS3, JavaScript, UI/UX Design
+- **Linguagens em Aprendizado:** Python
+- **Gestão & Metodologias:** Metodologias Ágeis (Scrum/Kanban), Análise de Sistemas e Processos
+- **Versionamento:** Git, GitHub
+
+---
+
+## 🎯 Interesses e Objetivos
+- Desenvolvimento de aplicações web responsivas e funcionais.
+- Aprofundamento em arquitetura de sistemas, análise de dados e Python.
+- Aplicação de boas práticas de UI/UX para melhoria da experiência do usuário.
+
+---
+
+## 📬 Contato
+- **LinkedIn:** [Rosemeire Faria](https://linkedin.com/in/rosemeire-faria-seguros/)
